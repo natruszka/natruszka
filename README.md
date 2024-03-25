@@ -18,12 +18,7 @@
 ---
 
 ### 🎵 My favorite tunes:
-<div align="center">
-<div><p>All time favorite</p>
-  <img class="img" src="https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks"/>
-  <p>Latest obsession</p>
-   <img class="img" src="https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks"/>
-</div>
+
 <!--
 **natruszka/natruszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
