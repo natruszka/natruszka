@@ -29,8 +29,8 @@
     <th>Recent obsession</th>
   </tr>
   <tr>
-    <td><img src="card.svg" style="width: 280px;" alt="Click to see the source"> </td>
-    <td><img src="card_recent.svg" style="width: 280px;" alt="Click to see the source"></td>
+    <td><a href="https://open.spotify.com/track/7DlaNytRNcrIWvCzsCRZKi?si=853ae6dfaf8d42db"><img src="card.svg" style="width: 280px;" alt="Click to see the source"></a> </td>
+    <td><a href="https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P?si=23a4445042784808"><img src="card_recent.svg" style="width: 280px;" alt="Click to see the source"></a></td>
   </tr>
 </table>
 
