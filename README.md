@@ -3,7 +3,7 @@
 
 <div id="header" align="center">
   <img src="https://static.wikia.nocookie.net/undertale/images/7/72/Napsta_sprite.png/revision/latest?cb=20160403150652&path-prefix=pl" width="100"/>
-  <p>I'm Aleksandra also known as Nat :alien: I'm a third-year Applied Computer Science student at AGH UST in Krakow and .NET developer at Comarch 👩‍💻</p>
+  <p>I'm Aleksandra also known as Nat :alien: I'm a fourth-year Computer Science in Engineering student at AGH UST in Krakow and Golang developer at Relativity 👩‍💻</p>
 </div>
 </br>
 
